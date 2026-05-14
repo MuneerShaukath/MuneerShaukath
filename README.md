@@ -7,4 +7,15 @@
 </h1>
 
 ### A Senior System Engineer with expertise in enterprise infrastructure, Linux systems, Windows servers, networking, and cloud operations. Experienced in system automation, monitoring, security hardening, and working with technologies like AWS, VMware, Docker, Podman, Proxmox, Office 365 and much more.
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuneerShaukath/MuneerShaukath/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuneerShaukath/MuneerShaukath/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MuneerShaukath/MuneerShaukath/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
