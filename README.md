@@ -1,4 +1,4 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{muneershaukath}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{github.com/MuneerShaukath}/count.svg" alt="Visitor's Count" />
 </div>
